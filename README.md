@@ -1,4 +1,7 @@
-gpxcat
+This is a fork of the gpxcat utility. I'm interested in extending this to also support .FIT files (Garmin activity recording format).  [gpspbabel](https://www.gpsbabel.org/download.html) is used to convert the .FIT to .gpx before cating them together.
+
+
+Original
 ======
 
 This is the script to concatenate few or more GPX tracks into one file.
